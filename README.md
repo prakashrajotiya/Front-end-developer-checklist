@@ -8,3 +8,6 @@
 - accessbility friendly
 - compress image
 - loader while data retrive and test
+- cross browser testing
+- favicon
+- doc title
