@@ -14,3 +14,5 @@
 # Front end developer
 - loader while data retrive and test
 - divide in small function
+- remove console code
+- remove unwanted commented code (that you have written)
