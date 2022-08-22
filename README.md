@@ -1,6 +1,7 @@
 # Front-end-developer-checklist
 
-form valiation
+
+ Markup : *form valiation
 scroll to top
 header sticky
 navbar in mobile
