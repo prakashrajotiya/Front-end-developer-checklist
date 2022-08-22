@@ -11,3 +11,4 @@
 - cross browser testing
 - favicon
 - doc title
+- tel and mailto attribute
