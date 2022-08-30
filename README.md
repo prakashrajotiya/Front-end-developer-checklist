@@ -16,3 +16,6 @@
 - divide in small function
 - remove console code
 - remove unwanted commented code (that you have written)
+- confimation before delete
+- edit delete use together
+
