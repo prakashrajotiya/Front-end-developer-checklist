@@ -18,4 +18,5 @@
 - remove unwanted commented code (that you have written)
 - confimation before delete
 - edit delete use together
+- amount always right align
 
